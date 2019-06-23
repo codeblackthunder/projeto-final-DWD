@@ -1,0 +1,15 @@
+.header-paralax {
+  background-image: url('img/img.png');
+  background-size: cover;
+  width: 100%;
+  position: fixed;
+  height: 100vh;
+}
+
+main {
+  background: #E7E3DA;
+  position: relative;
+  top: 600px;
+  font-family: 'Raleway', sans-serif;
+}
+
